@@ -35,7 +35,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4O   TobyCatApps       Eric Tsang          Alex Lam        Sebastian Pelka     Marc Rafanan
 4O   Turbo             Melvin Loho         Filip Gutica    Thomas Tallentire
 4Ox  Unicorns          Jeff Bayntun        Dan Buhler      Tyler Hlynsky
-4R	 Adbuster		   Andrés Aguilar	
+4R   Adbuster          Andrés Aguilar
 4R   Bookie Wookie     Shah Newaz Khan     Songqi Liu      Yasha Walker
 4R   Ctrl-Alt-Believe  Paolo Montano       Brycen Dorsay   Justin Chee
 4R   Kyu               Mao Sato
