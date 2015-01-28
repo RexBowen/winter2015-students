@@ -31,6 +31,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4G   IAM               Manuel Gonzales     Adam Jesse      Ishpreet Rattan
 4G   sounautic         Jason Ji            Wonho Lim
 4O   Chrea             Christofer Klassen  Rhea Lauzon
+4O   G-Overture        Georgi Hristov
 4O   Marvin-Vemple     Calvin Rempel       Marc Vouve
 4O   TobyCatApps       Eric Tsang          Alex Lam        Sebastian Pelka     Marc Rafanan
 4O   Turbo             Melvin Loho         Filip Gutica    Thomas Tallentire
