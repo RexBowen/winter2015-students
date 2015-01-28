@@ -24,17 +24,18 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 ===  ================  ==================  ==============  ==================  ============
 4Bx  Kappa-Industries  Lester Aquilario    Peter Chan      Santo Tallarico     René Ye
 4B   Plenty-of-Geeks   Yu-Hsin Sean Wang   Chris Qualizza  George Padua        Edward Leung
-4B   RPG-Solo-Grinder  Calvin Truong    
+4B   RPG-Solo-Grinder  Calvin Truong
 4G   Alberts-Revenge   Ming-Hsuan Liu      Stefan Stan
-4G   Bromance          Clemens Lo          William Huang                     
+4G   Bromance          Clemens Lo          William Huang
 4G   GoonSquad         Andrew Lockhart     Roy Banks       William Chiang      James Lee
 4G   IAM               Manuel Gonzales     Adam Jesse      Ishpreet Rattan
 4G   sounautic         Jason Ji            Wonho Lim
-4O   Chrea             Christofer Klassen  Rhea Lauzon    
-4O   Marvin-Vemple     Calvin Rempel       Marc Vouve     
+4O   Chrea             Christofer Klassen  Rhea Lauzon
+4O   Marvin-Vemple     Calvin Rempel       Marc Vouve
 4O   TobyCatApps       Eric Tsang          Alex Lam        Sebastian Pelka     Marc Rafanan
 4O   Turbo             Melvin Loho         Filip Gutica    Thomas Tallentire
 4Ox  Unicorns          Jeff Bayntun        Dan Buhler      Tyler Hlynsky
+4R   Andrex Megacorp   Andrew Hartline
 4R   Bookie Wookie     Shah Newaz Khan     Songqi Liu      Yasha Walker
 4R   Ctrl-Alt-Believe  Paolo Montano       Brycen Dorsay   Justin Chee
 4R   Git-Wrecked       Sean Hodgkinson     Edwin Pham
