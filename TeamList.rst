@@ -38,6 +38,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4R   Bookie Wookie     Shah Newaz Khan     Songqi Liu      Yasha Walker
 4R   Ctrl-Alt-Believe  Paolo Montano       Brycen Dorsay   Justin Chee
 4R   Kyu               Mao Sato
+4R   SoL               Mae Yee             Henry Tan       Michael Chodolak    Stephanie Lachapelle
 ===  ================  ==================  ==============  ==================  ============
 
 
