@@ -41,6 +41,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4R   Git-Wrecked       Sean Hodgkinson     Edwin Pham
 4R   Kyu               Mao Sato
 4R   SoL               Mae Yee             Henry Tan       Michael Chodolak    Stephanie Lachapelle
+4R   VoodooWorks       Ben Soer            Ryan Sadio      Alan Lai
 ===  ================  ==================  ==============  ==================  ============
 
 
