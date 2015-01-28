@@ -37,7 +37,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4Ox  Unicorns          Jeff Bayntun        Dan Buhler      Tyler Hlynsky
 4O   ASGARD            Alex Dellow         Lewis Scott
 4R   Adbuster          Andrés Aguilar
-4R   AndrexMegacorp   Andrew Hartline
+4R   AndrexMegacorp    Andrew Hartline
 4R   Bookie-Wookie     Shah Newaz Khan     Songqi Liu      Yasha Walker
 4R   Ctrl-Alt-Believe  Paolo Montano       Brycen Dorsay   Justin Chee
 4R   Git-Wrecked       Sean Hodgkinson     Edwin Pham
