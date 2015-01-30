@@ -40,7 +40,7 @@ Set  Team Name           Maintainer          Member 2        Member 3           
 4O   Subforum            Abel Lim
 4O   TobyCatApps         Eric Tsang          Alex Lam        Sebastian Pelka     Marc Rafanan
 4O   Turbo               Melvin Loho         Filip Gutica    Thomas Tallentire
-4Ox  Unicorns            Jeff Bayntun        Dan Buhler      Tyler Hlynsky
+4Ox  BeardedUnicorns     Jeff Bayntun        Dan Buhler      Tyler Hlynsky
 4R   Adbuster            Andrés Aguilar
 4R   AndrexMegacorp      Andrew Hartline
 4R   Big Brownie         Nav Bhatti
